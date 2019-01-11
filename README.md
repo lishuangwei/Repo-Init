@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # repo
 
 Repo is a tool built on top of Git.  Repo helps manage many Git repositories,
@@ -14,3 +15,7 @@ that you can put anywhere in your path.
 * [repo Manifest Format](./docs/manifest-format.md)
 * [repo Hooks](./docs/repo-hooks.md)
 * [Submitting patches](./SUBMITTING_PATCHES.md)
+=======
+# Repo-Init
+Linux下,将repo放入~/bin下,并将bin加入环境变量(注意权限问题)
+>>>>>>> a444cf519c5fde98a6e06e60f8014e1427df204a
